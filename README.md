@@ -42,7 +42,10 @@ Notebook ```custom_dataset``` introduces building custom datasets in PyTorch
 1. Building multimodal models
 
 ## Autoencoders
-Notebook ```autoencoders``` introduces the autoencoders architectures in PyTorch
+Notebook ```fraud-detection-pytorch``` introduces the autoencoders architectures in PyTorch and use it to detect credit card fraud
 ### What you will learn
+1. Autoencoders
+2. Some functionality of sklearn
+3. Some statistics
 
 
