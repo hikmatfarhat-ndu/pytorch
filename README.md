@@ -41,4 +41,8 @@ Notebook ```custom_dataset``` introduces building custom datasets in PyTorch
 1. Handling categorical data as input
 1. Building multimodal models
 
+## Autoencoders
+Notebook ```autoencoders``` introduces the autoencoders architectures in PyTorch
+### What you will learn
+
 
