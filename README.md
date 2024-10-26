@@ -33,14 +33,14 @@ Notebook ```detecting-emotions``` introduces the use of Kaggle and Kaggle datase
 1. Reduce overfitting using dropout
 1. Using PyTorch to load image datasets for classification
 
-## Custom Datasets
+<!-- ## Custom Datasets
 Notebook ```custom_dataset``` introduces building custom datasets in PyTorch
 ### What you will learn
 1. Using the pandas package
 1. Building a custom dataset using PyTorch
 1. Handling categorical data as input
 1. Building multimodal models
-
+-->
 ## Autoencoders
 Notebook ```fraud-detection-pytorch``` introduces the autoencoders architectures in PyTorch and use it to detect credit card fraud
 ### What you will learn

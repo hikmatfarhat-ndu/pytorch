@@ -6,3 +6,6 @@ MNIST/*
 events*
 *batch*
 .ipynb_*
+model.h5
+creditcard*
+House*
